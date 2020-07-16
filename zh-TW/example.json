@@ -1,6 +1,20 @@
 {
+  "extensionName111": {
+    "message": "test",
+    "description": "Name of the extension1111."
+  },
   "extensionName": {
     "message": "按i18nc",
     "description": "Name of the extension."
+  },
+  "notificationContent": {
+    "message": "You clicked1111 $URL$.",
+    "description": "Tells the user which link they clicked.",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "https://developer.mozilla.org"
+      }
+    }
   }
 }
