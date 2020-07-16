@@ -1,4 +1,9 @@
 {
+  "extensionName111": {
+    "message": "Notify link clicks i18n111",
+    "description": "Name of the extension1111."
+  },
+  
   "extensionName": {
     "message": "Notify link clicks i18n",
     "description": "Name of the extension."
