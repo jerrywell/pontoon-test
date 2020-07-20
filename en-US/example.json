@@ -1,4 +1,8 @@
 {
+  "watchName": {
+    "message": "this is a good watch",
+    "description": "name for watch."
+  },
   "extensionName111": {
     "message": "Notify link clicks i18n111",
     "description": "Name of the extension1111."
