@@ -1,11 +1,15 @@
 {
   "extensionName111": {
-    "message": "test",
+    "message": "通知點擊 from test2",
     "description": "Name of the extension1111."
   },
   "extensionName": {
-    "message": "按i18nc",
+    "message": "按i18n",
     "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "當使用者點選連結時顯示通知12",
+    "description": "Description of the extension."
   },
   "notificationContent": {
     "message": "You clicked1111 $URL$.",
