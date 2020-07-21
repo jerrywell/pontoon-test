@@ -1,4 +1,8 @@
 {
+  "watchName2": {
+    "message": "this is a good watch3",
+    "description": "name for watch4."
+  },
   "watchName1": {
     "message": "this is a good watch2",
     "description": "name for watch3."
